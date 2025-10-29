@@ -1,12 +1,40 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌦️ React Weather App
 
-Currently, two official plugins are available:
+A modern and responsive **Weather Forecast Application** built with **React.js** and styled using **Bootstrap**.  
+It allows users to check real-time weather data for any city using the **OpenWeatherMap API**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
+👉 [View Live App](https://react-weather-dashboard-kohl.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧩 Features
+
+- 🌍 Search weather by city name  
+- 🌤️ Displays temperature, humidity, and conditions  
+- 🌡️ Dynamic weather icons  
+- 📱 Fully responsive design (mobile & desktop)  
+- ⚡ Built with React Hooks and Fetch API  
+- 🎨 Styled using Bootstrap 5  
+
+---
+
+## 🛠️ Technologies Used
+
+- **React.js**
+- **Bootstrap 5**
+- **OpenWeatherMap API**
+- **Vercel** for deployment
+
+---
+
+## 📸 Preview
+
+![Weather App Screenshot](https://cdn-icons-png.flaticon.com/512/1163/1163661.png)
+
+---
+
+
